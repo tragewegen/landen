@@ -59,7 +59,11 @@
     "sitemapSwitcherAuto": false,
     "siteUrl": false,
     "cookiesAlert": false,
-    "gdpr": false
+    "gdpr": false,
+    "publishType": "local",
+    "publishPath": "@PROJECT_PATH@",
+    "gitHubName": "tragewegen",
+    "gitHubPath": "overijse"
   },
   "pages": {
     "page1.html": {
