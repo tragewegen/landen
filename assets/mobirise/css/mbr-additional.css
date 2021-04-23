@@ -1900,6 +1900,9 @@ section.lazy-placeholder:after {
 .cid-rQbUgujYzw .mbr-text {
   color: #767676;
 }
+.cid-rQbUgujYzw .mbr-text P {
+  text-align: left;
+}
 .cid-rQcg3z86Xx {
   padding-top: 30px;
   padding-bottom: 0px;
@@ -2083,6 +2086,15 @@ section.lazy-placeholder:after {
   -ms-transform: none;
   -o-transform: none;
   transform: none;
+}
+.cid-svokmZZueE {
+  padding-top: 15px;
+  padding-bottom: 0px;
+  background-color: #ffffff;
+}
+.cid-svokmZZueE .mbr-text,
+.cid-svokmZZueE blockquote {
+  color: #767676;
 }
 .cid-rQc35fbMtZ {
   padding-top: 15px;
